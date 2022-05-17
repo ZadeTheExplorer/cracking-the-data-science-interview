@@ -1,4 +1,4 @@
-## Analytics Vidhya
+## Patrick Ha
 
 This list is originally posted on [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/).
 
